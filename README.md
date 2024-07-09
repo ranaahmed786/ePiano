@@ -39,11 +39,13 @@ The epiano application is a practical implementation of an 49 palatte electronic
 2. **Configure Visual Studio Code**: Integrate SFML into Visual Studio Code by adjusting compiler and linker settings for proper recognition and utilization.
 
 3. **Utilize Documentation and Tutorials**: Refer to SFML documentation and YouTube tutorials for setup guidance, suitable for beginners.
-4. 
-5. **Run**: You can run the program by opening the epiano-030-027.sln file and build the solution.
+ 
+4. **Run**: You can run the program by opening the epiano-030-027.sln file and build the solution.
 
 ## Usage Guide
+
 The epiano can be played by all 3 input methods (eg touch , mouse click , keyboard button).
+
 1. **Mouse click**: Simply click on the repective key to play the respective piano note.
    
 2. **Keyboard click**: The piano keys on the piano can be played by pressing F1->F10 & 1->9 keys in sequence. The white keys can be played by pressing Q->M and , and . in a sequence.
