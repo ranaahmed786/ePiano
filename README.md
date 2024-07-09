@@ -1,5 +1,6 @@
 # 🎹|ePiano Application
 The epiano application is a practical implementation of an 49 palatte electronic piano have real piano notes so pratical and real sounds could beplayed at ease.
+
 ![ePiano UI](https://github.com/ranaahmed786/ePiano/assets/168958100/3903af03-4250-4a07-8423-edd45735a997)
 
 ## Table of Contents
@@ -44,9 +45,13 @@ The epiano application is a practical implementation of an 49 palatte electronic
 ## Usage Guide
 The epiano can be played by all 3 input methods (eg touch , mouse click , keyboard button).
 1. **Mouse click**: Simply click on the repective key to play the respective piano note.
+   
 2. **Keyboard click**: The piano keys on the piano can be played by pressing F1->F10 & 1->9 keys in sequence. The white keys can be played by pressing Q->M and , and . in a sequence.
+   
 3. **Touch**: Simply touch on the key to play the respective key note.
+
 ### FLOWCHART:
+
 ![image](https://github.com/ranaahmed786/ePiano/assets/168958100/65be78e9-47a0-4bc8-907a-17b380cd4a56)
 
 
