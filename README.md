@@ -11,7 +11,6 @@ The epiano application is a practical implementation of an 49 palatte electronic
 - [Usage Guide](#usage-guide)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [Credits](#credits)
 
 ## Features
 
@@ -60,8 +59,4 @@ The epiano can be played by all 3 input methods (eg touch , mouse click , keyboa
 ## Contributing
 
 1. **Contributing Guidelines**: Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes to enhance the ePiano application.
-
-## Credits
-
-1. **Acknowledgements**: i would like to give credit to my groupmate Haider Hassan Awan who designed the layout of the piano.
 
